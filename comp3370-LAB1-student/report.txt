@@ -1,0 +1,13 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp3370.grading.LAB1Grading#testEmptyRadix: +5
+edu.wit.cs.comp3370.grading.LAB1Grading#testSingleRadix: +5
+edu.wit.cs.comp3370.grading.LAB1Grading#testSmallRadix: +10
+edu.wit.cs.comp3370.grading.LAB1Grading#testRandRadix: +15
+edu.wit.cs.comp3370.grading.LAB1Grading#testSizesRadix: +15
+edu.wit.cs.comp3370.grading.LAB1Grading#testEmptyCounting: +5
+edu.wit.cs.comp3370.grading.LAB1Grading#testSingleCounting: +5
+edu.wit.cs.comp3370.grading.LAB1Grading#testSmallCounting: +10
+edu.wit.cs.comp3370.grading.LAB1Grading#testRandCounting: +15
+edu.wit.cs.comp3370.grading.LAB1Grading#testSizesCounting: +15
